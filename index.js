@@ -1,1 +1,1 @@
-console.log('NODE WORKS');
+console.log(process.argv[2]);
