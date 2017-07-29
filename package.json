@@ -1,0 +1,8 @@
+{
+  "name": "js-photo-watermarker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RamonBalthazar/js-photo-watermarker.git",
+  "author": "Ramon Balthazar <ramonbalthazar@gmail.com>",
+  "license": "MIT",
+}

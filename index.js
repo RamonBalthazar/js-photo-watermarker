@@ -1,5 +1,11 @@
-test(process.argv[2]);
+const fileSystem = require('fs');
 
-function test(argument) {
-  console.log(argument);
-}
+fileSystem.stat('/', function(err, stats) {
+  console.log(stats);
+});
+
+// test(process.argv[2]);
+//
+// function test(argument) {
+//   console.log(argument);
+// }
