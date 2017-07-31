@@ -5,4 +5,7 @@
   "repository": "git@github.com:RamonBalthazar/js-photo-watermarker.git",
   "author": "Ramon Balthazar <ramonbalthazar@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
 }
